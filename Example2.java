@@ -7,6 +7,7 @@ System.out.println("I am Laxminarayanan");
 System.out.println("From Krishnagiri");
 System.out.println("Completed BE");
 System.out.println("In Coimbatore");
-  System.out.println("Now from Hosur");
+System.out.println("Now from Hosur");
+System.out.println("Are you from");
 }
 }
